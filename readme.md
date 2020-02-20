@@ -2,8 +2,11 @@
 
 ### About
 
-* [Kiri:Moto](https://grid.space/kiri) - A Unique, Multi-Modal, Cloud-based Slicer for FDM, CNC and Laser
-* [Meta:Moto](https://grid.space/meta) - Recursive Block-based Modeling
+This is going to modify [Kiri:Moto](https://grid.space/kiri)
+
+Features:
+* add: "support factor" option in UI
+  * see: doSupportFill ([link](https://github.com/users/acidhastobe/emails/95432351/confirm_verification/9eaad7db90b0f27933894b1da957625947057c0b?utm_campaign=github-email-verification&utm_content=html&utm_medium=email&utm_source=verification-email))
 
 ### Getting Started
 
@@ -14,7 +17,7 @@ npm start
 
 to start a local instance of the apps. then open
 [Kiri:Moto](http://localhost:8080/kiri) or
-[Meta:Moto](http://localhost:8080/meta) on http://localhost:8080/
+
 
 ### Other Start Options
 
@@ -27,7 +30,5 @@ then access the apps from http://debug:8080/
 
 ## More Information
 
-* [Facebook Group](https://www.facebook.com/groups/660020084206828/)
 * [Wiki](https://github.com/GridSpace/KiriMoto/wiki)
-* [Twitter](https://twitter.com/grid_space_3d)
-* [YouTube Tutorials](https://www.youtube.com/c/gridspace)
+
